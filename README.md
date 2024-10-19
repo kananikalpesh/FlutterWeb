@@ -1,11 +1,8 @@
-# Flatten
+# FlutterWeb
 
-Flatten is a ready-to-use admin panel designed and developed in Flutter, Which provides lots of features and
+FlutterWeb is a ready-to-use admin panel designed and developed in Flutter, Which provides lots of features and
 functionalities to make your work easy.
 
-## Getting Started
-
-For better experience use our [online documentation](https://getappui.com/flatten/index.html).
 
 ### Requirements
 
@@ -33,6 +30,3 @@ Run following commands to create app bundles for android
 * `flutter build web`
 * [more on bundle](https://docs.flutter.dev/platform-integration/web/building)
 
-#### Issues?
-
-Any issues you face, direct contact us on : [support@getappui.com](mailto:support@getappui.com)
